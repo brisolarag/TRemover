@@ -1,0 +1,10 @@
+H:\Documents\OneDrive\OneDrive - PUCRS - BR\pessoal\aplicacaoC#\TfilesUpdated\TRemover\bin\Debug\TRemover.exe.config
+H:\Documents\OneDrive\OneDrive - PUCRS - BR\pessoal\aplicacaoC#\TfilesUpdated\TRemover\bin\Debug\TRemover.exe
+H:\Documents\OneDrive\OneDrive - PUCRS - BR\pessoal\aplicacaoC#\TfilesUpdated\TRemover\bin\Debug\TRemover.pdb
+H:\Documents\OneDrive\OneDrive - PUCRS - BR\pessoal\aplicacaoC#\TfilesUpdated\TRemover\obj\Debug\TRemover.csproj.AssemblyReference.cache
+H:\Documents\OneDrive\OneDrive - PUCRS - BR\pessoal\aplicacaoC#\TfilesUpdated\TRemover\obj\Debug\TRemover.Form1.resources
+H:\Documents\OneDrive\OneDrive - PUCRS - BR\pessoal\aplicacaoC#\TfilesUpdated\TRemover\obj\Debug\TRemover.Properties.Resources.resources
+H:\Documents\OneDrive\OneDrive - PUCRS - BR\pessoal\aplicacaoC#\TfilesUpdated\TRemover\obj\Debug\TRemover.csproj.GenerateResource.cache
+H:\Documents\OneDrive\OneDrive - PUCRS - BR\pessoal\aplicacaoC#\TfilesUpdated\TRemover\obj\Debug\TRemover.csproj.CoreCompileInputs.cache
+H:\Documents\OneDrive\OneDrive - PUCRS - BR\pessoal\aplicacaoC#\TfilesUpdated\TRemover\obj\Debug\TRemover.exe
+H:\Documents\OneDrive\OneDrive - PUCRS - BR\pessoal\aplicacaoC#\TfilesUpdated\TRemover\obj\Debug\TRemover.pdb
