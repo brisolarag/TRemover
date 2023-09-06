@@ -28,5 +28,19 @@ This is a program to remove temporary files from windows, to improve performace.
 
 #
 
+
+<strong>Just some testing to show:</strong><br><br><br>
+
+Here is the TestFolder before the application runs.<br><br>
+![image](https://github.com/brisolarag/TRemover/assets/126127487/83f6b60e-2ad6-47c3-8b9a-7b0a5cce9ace)
+
+![image](https://github.com/brisolarag/TRemover/assets/126127487/80c41d3d-eeea-49b0-a860-cc6e3b16ac9f)
+
+Here is the TestFolder after the application runs:<br><br>
+![image](https://github.com/brisolarag/TRemover/assets/126127487/83fd23f5-0870-42ca-bf2e-47d2f067a97d)
+
+
+<br><br><br>
+
 It would be nice if you click in the label "by Gabriel Brisolara" at the bottom of the app, to see more of my repositories.
 
